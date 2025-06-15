@@ -1,4 +1,4 @@
-package org.example.learn.littleproxy.constant;
+package org.example.learn.littleproxy.hello.constant;
 
 public class SystemProps {
 
